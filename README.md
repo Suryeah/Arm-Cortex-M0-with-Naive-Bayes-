@@ -5,6 +5,8 @@ STM32 Cortex M0+ microcontroller to perform a Naive Bayes classification using C
 
 
 *************************   Configuration	STCubeGenerated  *****************************
+
+
 STM32CubeMX 	6.2.1
 Date	04/03/2021
 MCU	STM32L053R8Tx
