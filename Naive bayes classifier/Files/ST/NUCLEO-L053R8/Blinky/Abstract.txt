@@ -1,0 +1,15 @@
+Naïve Bayesian Estimator running in STM32L053R8Tx [ARM Cortex M0+] with an interval of 10 Mills feeding new values with the help of HAL_RNG.
+Added Blink program just to keep an Eye on LED that helps in conforming if the controller is up and running fine or not. 
+
+functionality:
+ - Clock Settings:
+   - XTAL    = HSI     = 16.00 MHz
+   - SYSCLK  =           32.00 MHz
+
+
+
+
+
+
+
+
